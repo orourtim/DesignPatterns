@@ -1,0 +1,11 @@
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.exe
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.deps.json
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.runtimeconfig.json
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.runtimeconfig.dev.json
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.dll
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\bin\Debug\netcoreapp3.0\Strategy.pdb
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\obj\Debug\netcoreapp3.0\Strategy.csprojAssemblyReference.cache
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\obj\Debug\netcoreapp3.0\Strategy.AssemblyInfoInputs.cache
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\obj\Debug\netcoreapp3.0\Strategy.AssemblyInfo.cs
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\obj\Debug\netcoreapp3.0\Strategy.dll
+A:\Users\Timothy\Documents\GitHub\DesignPatterns\DesignPatterns\Strategy\obj\Debug\netcoreapp3.0\Strategy.pdb
